@@ -1,0 +1,6 @@
+F:\УП по программированию\1.0 Введение. Основы работы с Git\День №1\ProjectGit\bin\Debug\Laba27.exe.config
+F:\УП по программированию\1.0 Введение. Основы работы с Git\День №1\ProjectGit\obj\Debug\Laba27.exe
+F:\УП по программированию\1.0 Введение. Основы работы с Git\День №1\ProjectGit\obj\Debug\Laba27.pdb
+F:\УП по программированию\1.0 Введение. Основы работы с Git\День №1\ProjectGit\obj\Debug\ProjectGit.csprojResolveAssemblyReference.cache
+F:\УП по программированию\1.0 Введение. Основы работы с Git\День №1\ProjectGit\bin\Debug\Laba27.exe
+F:\УП по программированию\1.0 Введение. Основы работы с Git\День №1\ProjectGit\bin\Debug\Laba27.pdb
